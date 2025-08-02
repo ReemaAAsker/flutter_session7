@@ -1,2 +1,5 @@
+OOP concepts 
+[Encapsulation , Inhritance ,polymorphism , Abstraction ]
+
 inhtitance
 abstract class
