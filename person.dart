@@ -4,6 +4,7 @@ import 'sch_interface.dart';
 abstract class Person implements Auth, Schedualable {
   String? name;
   int? age;
+  bool gender = true; // male
   Person({this.name, this.age});
 
   String displayInfo() {
