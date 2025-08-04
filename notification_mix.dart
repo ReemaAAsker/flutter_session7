@@ -4,3 +4,6 @@ mixin Nofication {
     print('Notification from school mangers');
   }
 }
+/*
+Notification mixin is for notify teachers from students or from managers
+*/
