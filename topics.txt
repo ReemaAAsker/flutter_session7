@@ -3,3 +3,5 @@ OOP concepts
 
 inhtitance
 abstract class
+
+mixin
