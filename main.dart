@@ -49,6 +49,7 @@ void main() {
   Person person = Teacher("Reema", 22, subject: 'Front end');
 
   (person as Teacher).SchoolNotification();
+  person.displayInfo();
 
   //   Teacher reema = Teacher("reema", 20, subject: "front end subject");
   //   Student raghed = Student("Raghed", 22, "C");
